@@ -5,7 +5,7 @@
   "description": "A WhatsApp bot based on Baileysjs with Multi-Device support",
   "main": "index.js",
   "engines": {
-    "node": "12.x"
+    "node": "20.2.0"
   },
   "scripts": {
     "start": "node index.js"
@@ -46,6 +46,14 @@
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.5",
     "ytdl-core": "^4.11.5"
-  }
+  },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/Kyle6012/Wave-MD.git"
+ },
+ "bugs": {
+  "url": "https://github.com/Kyle6012/Wave-MD/issues"
+ },
+ "homepage": "https://github.com/Kyle6012/Wave-MD#readme"
 }
 
