@@ -2,17 +2,17 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "254791811982"
-global.ownername = "Bealth-Wave Company"
+global.ownernumber =  "2348024031146"
+global.ownername = "King-Venom Company"
 global.ytname = "YT: Bealth.inc"
 global.socialm = "GitHub: Kyle6012"
-global.location = "Kenyan"
+global.location = "Nigeria"
 
-global.ownername = 'Kyle Meshack' //owner name
-global.botname = 'WAVE-𝐌𝐃' //name of the bot
+global.ownername = 'King Venom' //owner name
+global.botname = 'Venom-𝐌𝐃' //name of the bot
 
 //sticker details
-global.stickername = 'Bealth-Wave Company_✰'
+global.stickername = 'King-Venom Company_✰'
 global.packname = 'Sticker By'
 global.author = 'Bealth Guy'
 //console view/theme
